@@ -86,6 +86,12 @@ Open terminal and try execute some kali linux commands
 
 
 ## OUTPUT:
+<img width="1920" height="1057" alt="dnsrecon1" src="https://github.com/user-attachments/assets/4e7f5228-3030-4cf4-b7f3-5156eeca1cb3" />
+
+
+<img width="1920" height="1057" alt="dnsrecon2" src="https://github.com/user-attachments/assets/569b977e-6d74-4c26-9261-f7ff41634dd6" />
+
+
 
 ## Architecture Diagram 
 ```
@@ -125,6 +131,8 @@ dnsenum example.com
 ```
 
 ## Output:
+<img width="1920" height="1057" alt="dnsenum" src="https://github.com/user-attachments/assets/8d78a830-3dc7-45e4-ab8d-a412650f2bf4" />
+
 
 
 
@@ -138,6 +146,15 @@ smtp-user-enum -M VRFY -U users.txt -t <target-ip>
 ```
   
  ## Output
+ <img width="1920" height="1057" alt="dnsenum vrfy" src="https://github.com/user-attachments/assets/fb87a517-c3ba-43e5-8567-c2189a3d88d7" />
+ 
+ <img width="720" height="400" alt="vm" src="https://github.com/user-attachments/assets/a107a69b-fae7-4bf3-8fbc-bee7310e6aed" />
+
+
+
+<img width="1920" height="1057" alt="ww data" src="https://github.com/user-attachments/assets/cbd975f9-650f-4808-aae2-66f517908fcf" />
+
+
   
 
 
@@ -151,6 +168,11 @@ smtp-user-enum -M VRFY -U users.txt -t <target-ip>
 nmap -p 25 --script smtp-enum-users.nse <target-ip>
 ```
 ## OUTPUT:
+<img width="1920" height="1057" alt="nmap" src="https://github.com/user-attachments/assets/994ccc46-d4e2-431d-a81f-07b6d48c9221" />
+
+
+
+
 
 
 
