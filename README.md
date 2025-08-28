@@ -56,6 +56,8 @@ Open terminal and try execute some kali linux commands
 ```
 
 # Output:
+![WhatsApp Image 2025-08-28 at 08 36 09_5d1e7900](https://github.com/user-attachments/assets/b1554435-52ad-4c5a-ac06-ee748c89a179)
+
 
 
 # DNS Enumeration
@@ -147,8 +149,15 @@ smtp-user-enum -M VRFY -U users.txt -t <target-ip>
   
  ## Output
  <img width="1920" height="1057" alt="dnsenum vrfy" src="https://github.com/user-attachments/assets/fb87a517-c3ba-43e5-8567-c2189a3d88d7" />
+
+
+
+ 
  
  <img width="720" height="400" alt="vm" src="https://github.com/user-attachments/assets/a107a69b-fae7-4bf3-8fbc-bee7310e6aed" />
+
+
+ 
 
 
 
